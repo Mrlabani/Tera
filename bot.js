@@ -81,7 +81,7 @@ bot.start((ctx) => {
 ᴡᴇʟᴄᴏᴍᴇ, <a href='tg://user?id=${userId}'>${firstName}</a>.\n\n🌟 ɪ ᴀᴍ ᴀ ᴛᴇʀᴀʙᴏx ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ.\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴛᴇʀᴀʙᴏx ʟɪɴᴋ ɪ ᴡɪʟʟ ᴅᴏᴡɴʟᴏᴀᴅ ᴡɪᴛʜɪɴ ғᴇᴡ sᴇᴄᴏɴᴅs\nᴀɴᴅ sᴇɴᴅ ɪᴛ ᴛᴏ ʏᴏᴜ ✨.
 `, { parse_mode: 'HTML', reply_markup: {  inline_keyboard: [[       
 { text: "ᴊᴏɪɴ ❤️🚀", url: "https://t.me/NOOBPrivate" },
-{ text: "ᴅᴇᴠᴇʟᴏᴘᴇʀ ⚡️", url: "https://t.me/l_abani" }
+{ text: "ᴅᴇᴠᴇʟᴏᴘᴇʀ ⚡️", url: "https://t.me/noob_je" }
     ]]} 
 });
 });
